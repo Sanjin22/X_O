@@ -1,0 +1,12 @@
+C:\Users\pc\source\repos\IksOks\IksOks\bin\Debug\IksOks.exe.config
+C:\Users\pc\source\repos\IksOks\IksOks\bin\Debug\IksOks.exe
+C:\Users\pc\source\repos\IksOks\IksOks\bin\Debug\IksOks.pdb
+C:\Users\pc\source\repos\IksOks\IksOks\obj\Debug\IksOks.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\IksOks\IksOks\obj\Debug\IksOks.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\source\repos\IksOks\IksOks\obj\Debug\IksOks.Form1.resources
+C:\Users\pc\source\repos\IksOks\IksOks\obj\Debug\IksOks.Properties.Resources.resources
+C:\Users\pc\source\repos\IksOks\IksOks\obj\Debug\IksOks.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\IksOks\IksOks\obj\Debug\IksOks.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\IksOks\IksOks\obj\Debug\IksOks.exe
+C:\Users\pc\source\repos\IksOks\IksOks\obj\Debug\IksOks.pdb
+C:\Users\pc\source\repos\IksOks\IksOks\obj\Debug\IksOks.frmXOIgraci.resources
